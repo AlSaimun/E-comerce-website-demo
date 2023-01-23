@@ -1,0 +1,15 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slider img{
+    margin: 15px;
+    border: 4px solid gray;
+}
